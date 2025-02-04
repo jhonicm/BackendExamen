@@ -1,0 +1,64 @@
+{
+  "productions": [
+    {
+      "id": 1,
+      "estacion": "Estación 1",
+      "productividad": 150,
+      "nivelProductividad": "Bueno"
+    },
+    {
+      "id": 2,
+      "estacion": "Estación 2",
+      "productividad": 200,
+      "nivelProductividad": "Excelente"
+    },
+    {
+      "id": 3,
+      "estacion": "Estación 3",
+      "productividad": 180,
+      "nivelProductividad": "Bueno"
+    },
+    {
+      "id": 4,
+      "estacion": "Estación 4",
+      "productividad": 220,
+      "nivelProductividad": "Excelente"
+    },
+    {
+      "id": 5,
+      "estacion": "Estación 5",
+      "productividad": 170,
+      "nivelProductividad": "Bueno"
+    },
+    {
+      "id": 6,
+      "estacion": "Estación 6",
+      "productividad": 190,
+      "nivelProductividad": "Bueno"
+    },
+    {
+      "id": 7,
+      "estacion": "Estación 7",
+      "productividad": 210,
+      "nivelProductividad": "Excelente"
+    },
+    {
+      "id": 8,
+      "estacion": "Estación 8",
+      "productividad": 160,
+      "nivelProductividad": "Deficiente"
+    },
+    {
+      "id": 9,
+      "estacion": "Estación 9",
+      "productividad": 175,
+      "nivelProductividad": "Bueno"
+    },
+    {
+      "id": 10,
+      "estacion": "Estación 10",
+      "productividad": 185,
+      "nivelProductividad": "Bueno"
+    }
+  ]
+}
