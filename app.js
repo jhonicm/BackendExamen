@@ -5,7 +5,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 const corsOptions = {
-  origin: 'https://frontend-examen-plum.vercel.app',
+  origin: 'https://frontend-examen-plum.vercel.app', // Reemplaza con tu dominio de frontend en Vercel
   optionsSuccessStatus: 200
 };
 
